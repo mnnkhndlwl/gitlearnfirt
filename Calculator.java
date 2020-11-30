@@ -30,6 +30,7 @@ public class Calculator {
         		  System.out.println("invalid operation : ");
           }
           System.out.println("result is :  " +utar);
+          System.out.println("thn");
           
           
 	}
